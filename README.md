@@ -1,4 +1,4 @@
-Tiny-Language-Compiler
+ASTiny
 ======================
 
 A Tiny Language compiler written in AS3
